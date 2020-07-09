@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello World 👋
+
+Santigo Yeomans is a CS student from Mexico, who loves create things and learn something new everyday.
+
+
+
 
 <!--
 **SYM1000/SYM1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
