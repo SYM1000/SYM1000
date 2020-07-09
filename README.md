@@ -2,7 +2,10 @@
 
 Santigo Yeomans is a CS student from Mexico, who loves create things and learn something new everyday.
 
-
+### Follow Me 👇
+* [LinkedIn](https://www.linkedin.com/in/santiago-yeomans/) - Follow SY on LinkedIn!
+* [GitHub](https://github.com/SYM1000) - Follow SY on GitHub!
+* [Portfolio](http://www.santiagoyeomans.com/) - Check out my portfolio!
 
 
 <!--
