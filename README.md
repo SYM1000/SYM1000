@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 *Santigo Yeomans* is a CS student from Mexico, who loves create things and learn something new everyday.
-I'm currently working on several IOS apps
+Santiago Yeomans us currently working on several IOS apps
 
 
 ### More of SY 👇
