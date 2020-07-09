@@ -5,10 +5,10 @@ I'm currently working on several IOS apps
 
 
 ### More of SY 👇
-* [AppStore](https://apps.apple.com/us/developer/santiago-yeomans/id1519365510) - Checkout SY apps on the App Store!
+* [AppStore](https://apps.apple.com/us/developer/santiago-yeomans/id1519365510) - Checkout SY's apps on the App Store!
 * [LinkedIn](https://www.linkedin.com/in/santiago-yeomans/) - Follow SY on LinkedIn!
 * [GitHub](https://github.com/SYM1000) - Follow SY on GitHub!
-* [Portfolio](http://www.santiagoyeomans.com/) - Check out my portfolio!
+* [Portfolio](http://www.santiagoyeomans.com/) - Check out SY's portfolio!
 
 
 <!--
