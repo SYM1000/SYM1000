@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hello World ![](https://github.com/SYM1000/SYM1000/blob/master/Res/Hi.gif)
 
 ![](https://github.com/SYM1000/SYM1000/blob/master/gh-header.jpg)
 
