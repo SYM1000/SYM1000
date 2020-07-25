@@ -13,6 +13,11 @@ Santiago Yeomans is currently working on several IOS apps.
 * [GitHub](https://github.com/SYM1000) - Follow SY on GitHub!
 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sym1000/count.svg" />
+</p>
+
 <!--
 **SYM1000/SYM1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
