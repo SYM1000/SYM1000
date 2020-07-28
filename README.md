@@ -12,9 +12,10 @@ Santiago Yeomans is currently working on several IOS apps.
 * ![](https://github.com/SYM1000/SYM1000/blob/master/Res/linkedin.png) [LinkedIn](https://www.linkedin.com/in/santiago-yeomans/) - Follow SY on LinkedIn! <br>
 * ![](https://github.com/SYM1000/SYM1000/blob/master/Res/logo.png) [GitHub](https://github.com/SYM1000) - Follow SY on GitHub!
 
+<!--
 ### Some cool stats
 [![Santiago Yeomans's github stats](https://github-readme-stats.vercel.app/api?username=sym1000&count_private=true&show_icons=true)]()
-
+-->
 
 <!--
 <p align="center"> 
