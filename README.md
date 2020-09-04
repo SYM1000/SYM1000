@@ -9,7 +9,7 @@ Santiago Yeomans is currently working on several IOS apps.
 ### More of SY 👇
 * ![](https://github.com/SYM1000/SYM1000/blob/master/Res/apple-logo.png) [AppStore](https://apps.apple.com/us/developer/santiago-yeomans/id1519365510) - Checkout SY's apps on the App Store! <br>
 * ![](https://github.com/SYM1000/SYM1000/blob/master/Res/www.png) [Portfolio](http://www.santiagoyeomans.com/) - Check out SY's portfolio! <br>
-* ![](https://github.com/SYM1000/SYM1000/blob/master/Res/linkedin.png) [LinkedIn](https://www.linkedin.com/in/santiago-yeomans/) - Follow SY on Linkedin! <br>
+* ![](https://github.com/SYM1000/SYM1000/blob/master/Res/linkedin.png) [LinkedIn](https://www.linkedin.com/in/santiago-yeomans/) - Follow SY on LinkedIn! <br>
 * ![](https://github.com/SYM1000/SYM1000/blob/master/Res/logo.png) [GitHub](https://github.com/SYM1000) - Follow SY on GitHub!
 
 <!--
