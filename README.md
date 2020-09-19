@@ -17,12 +17,12 @@ Santiago Yeomans is currently working on several IOS apps.
 [![Santiago Yeomans's github stats](https://github-readme-stats.vercel.app/api?username=sym1000&count_private=true&show_icons=true)]()
 -->
 
-<!--
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sym1000/count.svg" />
 </p>
--->
+
 
 <!--
 **SYM1000/SYM1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
