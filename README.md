@@ -11,6 +11,7 @@
 * ![](https://github.com/SYM1000/SYM1000/blob/master/Res/www.png) [Portfolio](http://www.santiagoyeomans.com/) - Check out SY's portfolio! <br>
 * ![](https://github.com/SYM1000/SYM1000/blob/master/Res/linkedin.png) [LinkedIn](https://www.linkedin.com/in/santiago-yeomans/) - Follow SY on LinkedIn! <br>
 * ![](https://github.com/SYM1000/SYM1000/blob/master/Res/logo.png) [GitHub](https://github.com/SYM1000) - Follow SY on GitHub!
+* [🎬  Movix](https://github.com/SYM1000) - Movie Recommender
 
 
 ### Some cool stats
