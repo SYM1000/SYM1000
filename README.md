@@ -7,6 +7,7 @@
 <br>
 
 ### More of SY 👇
+* [🧑‍💻 Hyper AI](https://www.hyperai.cc) - Leading HyperAI!
 * [🚀 Spaces](https://www.spacesapp.cc) - Currenty building Spaces!
 * ![](https://github.com/SYM1000/SYM1000/blob/master/Res/apple-logo.png) [AppStore](https://apps.apple.com/us/developer/santiago-yeomans/id1519365510) - Checkout SY's apps on the App Store! <br>
 * ![](https://github.com/SYM1000/SYM1000/blob/master/Res/www.png) [Portfolio](http://www.santiagoyeomans.com/) - Check out SY's portfolio! <br>
