@@ -17,11 +17,11 @@
 * [🎬  Movix](https://github.com/SYM1000) - Movie Recommender
 
 
+<!--
 ### Some cool stats
 [![Santiago Yeomans's github stats](https://github-readme-stats.vercel.app/api?username=sym1000&count_private=true&show_icons=true)]()
 
 
-<!--
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sym1000/count.svg" />
