@@ -2,11 +2,12 @@
 
 ![](https://github.com/SYM1000/SYM1000/blob/master/gh-header.jpg)
 
-[comment]: <> (*Santigo Yeomans* is a CS student from Mexico, who loves create things and learn something new everyday.)
+[comment]: <> (*Santigo Yeomans* is a CS student from Mexico, who loves creating things and learn something new every day.)
 [comment]: <> (Santiago Yeomans is currently working on several IOS apps.)
 <br>
 
 ### More of SY 👇
+* [🤖 SereneAI](https://www.sereneai.io) - Building the future of AI Personal Assistants!
 * [🖼 Art Gallery](https://www.artgallery.lat) - Disrupting the art world at Art Gallery!
 * [🧑‍💻 Hyper AI](https://www.hyperai.cc) - Leading HyperAI!
 * [🚀 Spaces](https://www.spacesapp.cc) - Currenty building Spaces!
