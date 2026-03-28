@@ -7,6 +7,7 @@
 <br>
 
 ### More of SY 👇
+* [🤳 Checkify](https://apps.apple.com/us/app/checkify-1-ai-bill-splitter/id6755905554#information) - 1# AI receipt splitting app on the App Store!
 * [🤖 SereneAI](https://www.sereneai.io) - Building the future of AI Personal Assistants!
 * [🖼 Art Gallery](https://www.artgallery.lat) - Disrupting the art world at Art Gallery!
 * [🧑‍💻 Hyper AI](https://www.hyperai.cc) - Leading HyperAI!
