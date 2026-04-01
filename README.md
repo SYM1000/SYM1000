@@ -11,6 +11,7 @@
 * [🕑 Twenty Four Clocks](https://twentyfourclocks.vercel.app/) - A clock made out of clocks, and it's fully customizable!
 * [🤳 Checkify](https://apps.apple.com/us/app/checkify-1-ai-bill-splitter/id6755905554#information) - 1# AI receipt splitting app on the App Store!
 * [🤖 SereneAI](https://www.sereneai.io) - Building the future of AI Personal Assistants!
+* [💼 LinkedIn Badge Generator](https://linkedin-badge-generator.xyz/) - Create custom LinkedIn style profile pictures!
 * [🖼 Art Gallery](https://www.artgallery.lat) - Disrupting the art world at Art Gallery!
 * [🧑‍💻 Hyper AI](https://www.hyperai.cc) - Leading HyperAI!
 * [🚀 Spaces](https://www.spacesapp.cc) - Currenty building Spaces!
