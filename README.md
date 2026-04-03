@@ -7,6 +7,7 @@
 <br>
 
 ### More of SY 👇
+* [🖼️ OpenGallery.ai](https://opengallery.ai) - Generate images with the best curated gallery of AI image prompts!
 * [💸 Claude Code Status Bar](https://github.com/SYM1000/claude-statusbar) - An open-source real-time always-on-display status bar for your CC session!
 * [🕑 Twenty Four Clocks](https://twentyfourclocks.vercel.app/) - A clock made out of clocks, and it's fully customizable!
 * [🤳 Checkify](https://apps.apple.com/us/app/checkify-1-ai-bill-splitter/id6755905554#information) - 1# AI receipt splitting app on the App Store!
